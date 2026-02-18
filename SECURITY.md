@@ -8,7 +8,7 @@ since it contains student information. If you discover a security vulnerability,
 1. **Do not** create an issue on this repository, disclose the vulnerability publicly, or discuss it with other teachers/students.
 1. In the top navigation of this repository, click the **Security** tab.
 1. In the top right, click the **Report a vulnerability** button.
-1. Fill out the provided form. It will request information like:
+1. Fill out the provided form. It will request information like:jj
    - A description of the vulnerability
    - Steps to reproduce the issue
    - Potential impact on student data or website functionality
